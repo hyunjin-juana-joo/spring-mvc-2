@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.login.web.session.SessionManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-10T13:53:12" hostname="juana.local" time="0.113">
+  <properties/>
+  <testcase name="sessionTest()" classname="hello.login.web.session.SessionManagerTest" time="0.113"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
